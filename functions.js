@@ -530,7 +530,7 @@ function help() {
     false,
     color(255),
     function () {
-      window.open("https://jeherillajanwar.github.io/Fighter/index.html");
+      window.open("https://ishaanSh06.github.io/Fighter/index.html");
     }
   );
   addMessage("Eat And Fight to Survive", "", false, color(150));
@@ -916,7 +916,7 @@ function hiding_info() {
     fill(200);
     text("Author: Ishaan Sharma.", x, (y += 30));
     text("", x, (y += 30));
-    text("Github: JeherillaJanwar.", x, (y += 30));
+    text("Github: ishaanSh06.", x, (y += 30));
     text("Type '/contact' in chat box for more info.", x, (y += 30));
     text("", x, (y += 30));
     text("Thank For Playing.", x, (y += 30));

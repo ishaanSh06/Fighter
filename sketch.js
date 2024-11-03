@@ -358,7 +358,7 @@ function keyPressed() {
             case '/contact':
                 addMessage('click here \u2665', 'My Github', false, color(100),
                     function() {
-                        window.open('https://github.com/JeherillaJanwar')
+                        window.open('https://github.com/ishaanSh06')
                     });
                 addMessage('click here \u2665', 'My Gmail', false, color(0, 0, 255),
                     function() {

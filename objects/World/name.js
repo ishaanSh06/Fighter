@@ -16,7 +16,7 @@ var RandomName = [
 	"Hao", "Thuan", "Nga", "Huy", "Hang", "An", "Anh", "Call me",
 	"Thien", "Ngan", "<3", "Love", "Michael", "Seclo", "Play Alone",
 	"Heo", "Julia", "Jame", "Thomson", "LOL", "Ris", "Soldier",
-	"Tris", "Nhan", "Danger", "Dam", "Hi Five", "NAMASTE", "US", "BadBoys", "CoolDude", "JeherillaJanwar", 
+	"Tris", "Nhan", "Danger", "Dam", "Hi Five", "NAMASTE", "US", "BadBoys", "CoolDude", "ishaanSh06", 
 	"Romeo", "Ishaan", "MAD_DOGI", "BOT", "Human", "Flower", "REAL", "Fighter", "cutt.ly/328069", "~", 
 	"TimCOOK", "SteveJobs", "ElonMusk", "MonkeyPox", "Bandook", "Stockfish", "OGGY", ":)", "Cockroach", 
 	"SushiMan", "SelfMade", "Snake", "Janwar", "Python", "Swift", "HTML", "Fuse", "Newt", "Newton", 
